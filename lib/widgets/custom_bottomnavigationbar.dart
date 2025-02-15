@@ -50,7 +50,7 @@ class CustomBottomNavigationBar extends StatelessWidget {
                     child: Wrap(
                       children: [
                         ListTile(
-                          title: const Text('Small', style: TextStyle(color: Colors.white)),
+                          title: const Text('Smal', style: TextStyle(color: Colors.white)),
                           subtitle: const Text('16x16', style: TextStyle(color: Colors.white54)),
                           onTap: () {
                             Navigator.push(
