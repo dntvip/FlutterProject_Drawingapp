@@ -9,7 +9,7 @@ class CustomBottomNavigationBar extends StatelessWidget {
       padding: const EdgeInsets.all(15),
       height: 110,
       decoration: const BoxDecoration(
-        color: Colors.white,
+        color: Colors.blue,
         boxShadow: [
           BoxShadow(
             color: Colors.black12,
